@@ -34,7 +34,7 @@ body {
   margin-bottom: 2rem;
   object-fit: cover;
   border-radius: 1rem;
-  max-width: none;
+  max-width: 70rem;
   max-height: none;
 }
 
